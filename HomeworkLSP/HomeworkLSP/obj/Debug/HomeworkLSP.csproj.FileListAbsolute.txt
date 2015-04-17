@@ -1,0 +1,10 @@
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkLSP\HomeworkLSP\obj\Debug\HomeworkLSP.csprojResolveAssemblyReference.cache
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkLSP\HomeworkLSP\bin\Debug\HomeworkLSP.dll
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkLSP\HomeworkLSP\bin\Debug\HomeworkLSP.pdb
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkLSP\HomeworkLSP\obj\Debug\HomeworkLSP.dll
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkLSP\HomeworkLSP\obj\Debug\HomeworkLSP.pdb
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkLSP\HomeworkLSP\bin\Debug\HomeworkLSP.dll
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkLSP\HomeworkLSP\bin\Debug\HomeworkLSP.pdb
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkLSP\HomeworkLSP\obj\Debug\HomeworkLSP.csprojResolveAssemblyReference.cache
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkLSP\HomeworkLSP\obj\Debug\HomeworkLSP.dll
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkLSP\HomeworkLSP\obj\Debug\HomeworkLSP.pdb

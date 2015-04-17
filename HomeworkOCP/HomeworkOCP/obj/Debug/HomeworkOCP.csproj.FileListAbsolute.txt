@@ -1,0 +1,10 @@
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkOCP\HomeworkOCP\bin\Debug\HomeworkOCP.dll
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkOCP\HomeworkOCP\bin\Debug\HomeworkOCP.pdb
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkOCP\HomeworkOCP\obj\Debug\HomeworkOCP.csprojResolveAssemblyReference.cache
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkOCP\HomeworkOCP\obj\Debug\HomeworkOCP.dll
+c:\users\angela-pc\documents\visual studio 2013\Projects\HomeworkOCP\HomeworkOCP\obj\Debug\HomeworkOCP.pdb
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkOCP\HomeworkOCP\bin\Debug\HomeworkOCP.dll
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkOCP\HomeworkOCP\bin\Debug\HomeworkOCP.pdb
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkOCP\HomeworkOCP\obj\Debug\HomeworkOCP.csprojResolveAssemblyReference.cache
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkOCP\HomeworkOCP\obj\Debug\HomeworkOCP.dll
+C:\Users\Angela-PC\Desktop\Domasna-Seavus\HomeworkOCP\HomeworkOCP\obj\Debug\HomeworkOCP.pdb
